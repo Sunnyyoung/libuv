@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'libuv'
-  s.version      = '1.25.0'
+  s.version      = '1.27.0'
   s.summary      = 'Cross-platform asynchronous I/O.'
   s.description  = 'libuv is a multi-platform support library with a focus on asynchronous I/O. It was primarily developed for use by Node.js, but it\'s also used by Luvit, Julia, pyuv, and others.'
   s.homepage     = "http://libuv.org/"
